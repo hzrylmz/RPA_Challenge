@@ -1,0 +1,66 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RPAChallengeWithSynteticData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "assertCong&Sequence_7",
+        "dt_ChallengeData&Sequence_1",
+        "count&Sequence_1",
+        "firstName&Sequence_3",
+        "lastName&Sequence_3",
+        "email&Sequence_3",
+        "address&Sequence_3",
+        "randomAddress&Sequence_3",
+        "phoneNumber&Sequence_3",
+        "role&Sequence_3",
+        "company&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "openRPA.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "isRpaChallengeElement&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "closeRPA.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FillRPAChallenge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_Company",
+        "in_Role",
+        "in_PhoneNumber",
+        "in_Address",
+        "in_Email",
+        "in_LastName",
+        "in_FirstName"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
